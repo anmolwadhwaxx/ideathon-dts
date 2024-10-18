@@ -1,3 +1,5 @@
+![simple banner](https://github.com/user-attachments/assets/a1646561-7995-4ffe-b9c1-18c4393c0038)
+
 # Ideathon - DTS, Build with AI
 
 **Welcome to the Ideathon - DTS, Build with AI GitHub Repository!**
