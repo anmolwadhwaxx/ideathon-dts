@@ -4,7 +4,7 @@
 
 **Welcome to the Ideathon - DTS, Build with AI GitHub Repository!**
 
-This repository is where participants can upload their project codebases and share detailed explanations of their AI-based innovations. Our ideathon will focus on projects using the **Gemini API**, following themes like Finance, Data Analysis, Security, and Accessibility.
+This repository is where participants can upload their project codebases and share detailed explanations of their AI-based innovations. Our ideathon will focus on projects using the **Gemini API.**
 
 ## Event Plan & Timeline
 
@@ -16,14 +16,14 @@ This repository is where participants can upload their project codebases and sha
 - **Week 1 (October 19):** Kick-off Event at Google Office
 - **Week 2 (October 26):** Initial Ideation and Development
 - **Week 3 (November 2):** Development and Troubleshooting
-- **Week 4 (November 9):** Final Demo & Submissions
+- **Week 4 (November 9):** Final Submissions
 
 ## How to Participate
 
 1. **Upload Your Codebase**:
    - Navigate to the `Teams` folder.
    - Create a new folder with your **team name** or **project title**.
-   - Upload your project files, including code and any required assets.
+   - Upload your project files.
    
 2. **Document Your Project**:
    - Inside your project folder, create a `README.md` file.
@@ -46,22 +46,22 @@ This repository is where participants can upload their project codebases and sha
 1. The final submission must be completed before **11:59 PM, November 9, 2024**.
 2. Please make sure all code is well-documented and organized.
 3. Teams can submit projects individually or as part of a team of up to 5 members.
-4. Open-source projects are highly encouraged, and all project codes will remain open-source unless specified otherwise by the team.
+4. Open-source projects are highly encouraged.
 
 ## Resources
 
-- **Gemini API Documentation**: [Link to API Docs]
+- **Gemini API Documentation**: [Link to API Docs](https://ai.google.dev/gemini-api)
 - **Project Signup Sheet**: [Google Sheet Link](https://docs.google.com/spreadsheets/d/1CKk5nGu9Vj1Ax5xHM5WPiq8Lu7hkRwid8V5CK2OeUSI/edit?gid=0#gid=0)
 
 ## Prizes & Recognition
 
-- **Top Projects**: Selected projects will be featured in future AI events and may receive Google swag!
-- **Mentorship**: Receive guidance from experts in AI and Google Cloud throughout the 4-week journey.
+- **Top Projects**: Selected projects will be featured in future AI events and may receive swags!
+- **Mentorship**: Receive guidance from experts in AI throughout the 4-week journey.
 - **Networking**: Opportunity to connect with AI innovators, mentors, and other participants.
 
 ## Need Help?
 
-If you face any issues while submitting your code, feel free to ask for help in our [Discord/WhatsApp group](link to be provided during the event) or reach out to the event organizer.
+If you face any issues while submitting your code, feel free to ask for help in our [WhatsApp group](link to be provided during the event) or reach out to Nihal or Anmol.
 
 ---
 
